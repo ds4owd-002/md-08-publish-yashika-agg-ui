@@ -1,8 +1,8 @@
 ---
 title: "A minimal example"
 date: today
-author: First Last 
-format:
+author: "Yashika Aggarwal" 
+format: 
   html:
     toc: true
 execute:
